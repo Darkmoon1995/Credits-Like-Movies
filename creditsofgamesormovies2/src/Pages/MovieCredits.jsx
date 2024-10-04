@@ -36,29 +36,46 @@ export default function MovieCredits() {
                 ref={creditsRef}
                 className="text-white font-mono text-center absolute bottom-0 left-0 right-0 transform translate-y-full"
             >
-                <h2 className="text-4xl mb-8">Movie Title</h2>
+                <h1 className="text-4xl mb-8">A Life Movie</h1>
+                <h2 className="text-4xl mb-8">How to Not Live</h2>
 
                 <h3 className="text-2xl mb-4">Cast</h3>
-                <p className="mb-2">John Doe as Character 1</p>
-                <p className="mb-2">Jane Smith as Character 2</p>
-                <p className="mb-8">Bob Johnson as Character 3</p>
+                <p className="mb-2">Myself as MainCharacter </p>
+                <p className="mb-2">my Mother and Father as Important Character </p>
+                <p className="mb-8">My Brother as The Friend</p>
 
                 <h3 className="text-2xl mb-4">Crew</h3>
-                <p className="mb-2">Directed by: Alice Williams</p>
-                <p className="mb-2">Written by: Charlie Brown</p>
-                <p className="mb-2">Produced by: David Miller</p>
-                <p className="mb-8">Cinematography by: Eva Davis</p>
+                <p className="mb-2">Directed by: God</p>
+                <p className="mb-2">Written by: Lucifer / Satan</p>
+                <p className="mb-2">Produced by: My boardem</p>
+                <p className="mb-8">Cinematography by: --- </p>
 
                 <h3 className="text-2xl mb-4">Music</h3>
-                <p className="mb-2">Composed by: Frank Wilson</p>
-                <p className="mb-8">Performed by: The Movie Orchestra</p>
+                <p className="mb-2">Composed by: World</p>
+                <p className="mb-8">Performed by: RandomArtist</p>
+
+                <h3 className="text-2xl mb-4"> PowerStats</h3>
+                <p className="mb-2">Strength : Avarege</p>
+                <p className="mb-2">intelligence : -8 to 10</p>
+                <p className="mb-8">Special Powers : 0</p>
+
+                <h3 className="text-2xl mb-4"> FriendStats</h3>
+                <p className="mb-2">GF (partners) : -1</p>
+                <p className="mb-2">Friends : 3</p>
+                <p className="mb-8">BestFriends : 1</p>
+
+                <h3 className="text-2xl mb-4"> Items</h3>
+                <p className="mb-2">Money Earned : 1,000,000 $ </p>
+                <p className="mb-2">Money Spent : 1,004,000 $ </p>
+                <p className="mb-8">Days Playes : 31,119 </p>
+
 
                 <h3 className="text-2xl mb-4">Special Thanks</h3>
-                <p className="mb-2">The City of New York</p>
+                <p className="mb-2">To my need of friends</p>
                 <p className="mb-2">All our amazing supporters</p>
-                <p className="mb-16">And You, for watching!</p>
+                <p className="mb-16">And You, who read this.</p>
 
-                <p className="text-sm mb-32">© 2023 Movie Production Company. All rights reserved.</p>
+                <p className="text-sm mb-32">:D 2007 - 2XXX God. All rights reserved.</p>
             </div>
             <style jsx>{`
                 @keyframes scroll {
