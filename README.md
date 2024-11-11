@@ -1,7 +1,7 @@
 # Movie Effect
 
 I wanted to create a simple movie effect while having a bit of fun.
-
+You can see how the website look in [here](https://credits-like-movies-4urj.vercel.app/)
 ## Features
 - Text slowly coming down
 - Showing who is which character
@@ -33,3 +33,4 @@ To use this project, follow these steps:
 
 4. Open your browser and navigate to [http://localhost:5173](http://localhost:5173) to see the movie effect in action.
    Click the button to refresh the effect.
+
