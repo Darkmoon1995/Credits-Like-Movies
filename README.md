@@ -17,7 +17,7 @@ To use this project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/movie-effect.git
+    git clone https://github.com/Darkmoon1995/Credits-Like-Movies.git
     ```
 
 2. **Install the dependencies**:
